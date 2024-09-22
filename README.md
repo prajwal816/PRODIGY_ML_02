@@ -1,5 +1,7 @@
 Customer Segmentation using K-Means Clustering
+
 Overview
+
 This project uses the K-means clustering algorithm to analyze customer purchase history and group them into distinct segments. By identifying customer clusters based on their buying behavior, businesses can better tailor marketing strategies, personalize offerings, and improve customer retention.
 
 Features
